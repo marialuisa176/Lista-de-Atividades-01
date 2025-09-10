@@ -15,7 +15,7 @@ num3 = int.Parse(Console.ReadLine());
 Console.WriteLine("Valores em ordem crescente:");
 //O foreach é um laço de repetição (loop) em C# que permite percorrer todos os elementos de uma coleção,
 //como um array, uma lista ou qualquer outro tipo de coleção que implementa a interface
-foreach (int valor in valores)
+foreach (int valor in valor)
 {
     Console.WriteLine(valor);
 }
